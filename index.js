@@ -21,8 +21,8 @@ function changeImage(){
     l_eye.setAttribute("width",x.naturalWidth/900);
     l_eye.setAttribute("height",x.naturalHeight/900);
     r_eye.setAttribute("src","res/"+images[index][1]);
-    r_eye.setAttribute("width",x.naturalWidth);
-    r_eye.setAttribute("height",x.naturalHeight);
+    r_eye.setAttribute("width",x.naturalWidth/900);
+    r_eye.setAttribute("height",x.naturalHeight/900);
     console.log(x.naturalWidth);
     console.log(x.naturalHeight);
     console.log("res/"+images[index][0])
