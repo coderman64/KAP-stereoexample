@@ -1,5 +1,5 @@
 var images = [
-    ["1-l.jpg","1-r.jpg"],
+    ["1_l.jpg","1_r.jpg"],
     ["chair1_l.JPG","chair1_r.JPG"],
     ["DrD_r.JPG","DrD_l.JPG"]
 ];
